@@ -5,9 +5,9 @@
   font-family: LabGrotesque-Bold;
   font-size: 2rem;
   background-color: aqua;
-  height: 10vh;
+  min-height: 10vh;
   width: 100vw;
-margin-top: 20px;
+  margin-top: 20px;
   padding-top: 17px;
 }
 
