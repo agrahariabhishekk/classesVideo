@@ -405,6 +405,48 @@ function App() {
         ></iframe>
       ),
     },
+    {
+      heading: "Live Class 20- Front-end batch with Code with random",
+      discreption:
+        "this is twenty video make by Dhruv Rekhatwat , And when you want to play just Youtube Logo and when you want to full screen you can use full screen symble on this video",
+      content: (
+        <iframe
+          width="auto"
+          height="315"
+          src="https://www.youtube.com/embed/sd1dZMZbGTQ?si=SwcP-pVvROcnggu1"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen"
+        ></iframe>
+      ),
+    },
+    {
+      heading: "Live Class 21- Front-end batch with Code with random",
+      discreption:
+        "this is twenty one video make by Dhruv Rekhatwat , And when you want to play just Youtube Logo and when you want to full screen you can use full screen symble on this video",
+      content: (
+        <iframe
+          width="auto"
+          height="315"
+          src="https://www.youtube.com/embed/J1Z5G3GwEL0?si=Jgkrf8w2ZAnaLBgC"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen"
+        ></iframe>
+      ),
+    },
   ];
   return (
     <>
